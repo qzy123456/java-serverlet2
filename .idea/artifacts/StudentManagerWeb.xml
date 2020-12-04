@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="StudentManagerWeb">
+    <output-path>$PROJECT_DIR$/build/artifacts/StudentManagerWeb</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="StudentManagerWeb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="StudentManagerWeb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="poi-3.9.jar" module-name="StudentManagerWeb" />
+          <element id="library" level="project" name="poi-3.9" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

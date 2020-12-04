@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="StudentManagerWeb2">
+    <output-path>$PROJECT_DIR$/build/artifacts/StudentManagerWeb2</output-path>
+    <root id="archive" name="StudentManagerWeb2.war">
+      <element id="artifact" artifact-name="StudentManagerWeb" />
+    </root>
+  </artifact>
+</component>
